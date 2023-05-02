@@ -19,3 +19,6 @@ This project was built using HTML, CSS, and JavaScript.
 - Transforms button's appearance
 
 ## Preview
+``ink
+https://laythalqadhi.github.io/colorful-button-generator/
+```
