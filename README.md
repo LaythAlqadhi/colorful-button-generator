@@ -8,7 +8,7 @@ This project was built using HTML, CSS, and JavaScript.
 
 ## How to Use
 
-1. Clone the repository or download the code files.
+1. Clone the repository or download the code files or visit the preview page.
 2. Open the `index.html` file in a web browser.
 3. Click the "TRY IT OUT" button to change the background color and transform the button's appearance.
 
